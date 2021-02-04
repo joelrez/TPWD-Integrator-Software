@@ -1,0 +1,7 @@
+empty
+small_mammal
+large_mammal 
+bird
+reptile
+amphibian
+person
